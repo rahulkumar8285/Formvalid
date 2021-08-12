@@ -1,0 +1,6 @@
+Important Points:-
+1 . download and extract file 
+2 .move this folder in xamp/httdoc folder
+3 .create that Database must name is a task.
+4 .import SQL file in task Database.
+5 .hit this url in your browser (localhost/task)
